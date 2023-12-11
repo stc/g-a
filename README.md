@@ -1,6 +1,6 @@
 # 0xstc
 
-[_`r3s0`_](#r3s0)[_`C-Life`_](#c-life)
+[_`r3s0`_](#r3s0) [_`C-Life`_](#c-life)
 
 ## r3s0
 
