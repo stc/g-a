@@ -1,8 +1,7 @@
 # 0xstc
-
+## .
 _`long-form generative artworks`_
-[a](#r3s0)
-[b](#Else)
+[r3s0](#r3s0), [C-Life](#C-Life), [Else](#Else)
 
 ## r3s0
 
