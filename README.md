@@ -18,9 +18,11 @@ The art & the projects
 .
 .
 .
-|                                       |
-|:-------------------------------------:|
-| ![](https://goo.gl/1R3T6h "Tonejito") |
+|       hello                 |               |
+| --- | --- |
+
+| ![r3s0](assets/user/cover-new.png) | Some info on r3s0  | 
+| --- | --- |
 
 | Command | Description |
 | --- | --- |
