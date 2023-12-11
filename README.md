@@ -1,12 +1,9 @@
+# generative art
 
-![markdown logo](assets/user/markdown.svg)
-
-# g-a
-
-_`Last Updated: 12/11/2023`_ 
+_`coding, algorithmic art, workshops`_ 
 
 
-## Move like this
+## Contents
 
 - [About](#about)
 - [Limitations](#limitations)
@@ -15,6 +12,13 @@ _`Last Updated: 12/11/2023`_
 ## About
 
 The art & the projects
+.
+.
+.
+.
+.
+.
+
 
 ## Limitations
 
