@@ -1,7 +1,6 @@
 # 0xstc
 
-_`long-form generative artworks`_
-[C-Life](#c-life)
+[_`r3s0`_](#r3s0)[_`C-Life`_](#c-life)
 
 ## r3s0
 
