@@ -18,16 +18,12 @@ The art & the projects
 .
 .
 .
-|       hello                 |               |
-| --- | --- |
 
-| ![r3s0](assets/user/cover-new.png) | Some info on r3s0  | 
-| --- | --- |
+| r3s0 |  |
+| ---- | ---- |
+| ![](assets/user/cover-new.png) | . |
+| r3s0 is a real-time generative artwork, investigating algorithmic shapes, colors and slowly transformic movements. As I am primarily interested in the philosophical aspects of computation (entropy, simulations, time, etc.), this piece focuses on the visual aspects of a custom, recursive noise function. I recently began using WebGL shaders to expand my practice beyond the regular canvas, manipulating pixels and shapes in a more direct manner. | Custom Software, WebGL, 2023|
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
 
 ## Limitations
 
