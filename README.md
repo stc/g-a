@@ -1,6 +1,8 @@
 # 0xstc
-## .
+
 _`long-form generative artworks`_
+
+## Table of Contents
 [r3s0](#r3s0), [C-Life](#C-Life), [Else](#Else)
 
 ## r3s0
