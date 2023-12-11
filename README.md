@@ -17,6 +17,7 @@ _`long-form generative artworks by agoston nagy`_
 | ---- | ---- | ---- |
 ||![](assets/user/c-Life-duo.png)|
 |C&#8209;Life| _`Custom Software, WebGL, 2023`_||
+| |project link | |
 | |appearances | |
 ||C-Life is an audiovisual artwork featuring abstract, generative landscapes. The visual setting comprises a light source and several vibrant cascading elements arranged in front of this radiant light. The gradual movement of these objects evokes the sensation of an opal-like glass surface, giving the impression that the display is melting due to the warmth emitted by the inner light.In the series, the palette of the landscapes gradually shifts from a small range of colors to a wider array of palette pool along the ids of the tokens. As more pieces are created in a single transaction batch, there's an increase in the speed and quantity of elements moving, resulting in a greater number of layers and sonic vibrations. The letter “C” pronounced as “sea” within the title encompasses all words that start with the letter “C”. This compression allows for an expansive and limitless range of interpretations for the scene.||
 
