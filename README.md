@@ -1,6 +1,8 @@
 # 0xstc
 
 _`long-form generative artworks`_
+[a](#r3s0)
+[b](#Else)
 
 ## r3s0
 
@@ -24,5 +26,6 @@ _`long-form generative artworks`_
 
 ## Else
 
+Here, more or less
 
 
