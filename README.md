@@ -12,7 +12,7 @@ _`long-form generative artworks by agoston nagy`_
 | |appearances | |
 ||r3s0 is a real-time generative artwork, investigating algorithmic shapes, colors and slowly transformic movements. As I am primarily interested in the philosophical aspects of computation (entropy, simulations, time, etc.), this piece focuses on the visual aspects of a custom, recursive noise function.||
 
-.
+&nbsp;
 | | | |
 | ---- | ---- | ---- |
 ||![](assets/user/c-Life-duo.png)|
