@@ -134,7 +134,6 @@ function toggleLight() {
 		document.documentElement.setAttribute("data-theme", "dark");
 		document.getElementById('light-toggle').innerHTML = "light";
 		document.getElementById('light-toggle').style.color = "#333";
-		document.getElementById('light-toggle').style.backgroundColor = "rgba(251,251,251,0.2)";
     	localStorage.setItem("mode", "dark");
 		setHighlightTheme("dark");
 	}
@@ -142,7 +141,6 @@ function toggleLight() {
 		document.documentElement.setAttribute("data-theme", "light");
 		document.getElementById('light-toggle').innerHTML = "dark";
 		document.getElementById('light-toggle').style.color = "#ddd";
-		document.getElementById('light-toggle').style.backgroundColor = "rgba(51,51,51,0.2)";
 		localStorage.setItem("mode", "light");
 		setHighlightTheme("light");
 	}
