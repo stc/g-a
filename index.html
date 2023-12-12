@@ -110,7 +110,7 @@
 
 <body>
 	<main role="main" class="container">
-		<a href="#" role="button" onclick="toggleLight();return false;" id="light-toggle" class="contrast">Light</a>
+		<a href="#" role="button" onclick="toggleLight();return false;" id="light-toggle" class="contrast">☼</a>
 		<div id="insert"></div>
 	</main>
 
@@ -132,14 +132,14 @@ function toggleLight() {
 	var mode = localStorage.getItem("mode");
 	if (mode == "light") {
 		document.documentElement.setAttribute("data-theme", "dark");
-		document.getElementById('light-toggle').innerHTML = "Light";
+		document.getElementById('light-toggle').innerHTML = "☼";
 		document.getElementById('light-toggle').style.color = "#333";
     	localStorage.setItem("mode", "dark");
 		setHighlightTheme("dark");
 	}
 	if (mode == "dark" || mode == null) {
 		document.documentElement.setAttribute("data-theme", "light");
-		document.getElementById('light-toggle').innerHTML = "Dark";
+		document.getElementById('light-toggle').innerHTML = "☾";
 		document.getElementById('light-toggle').style.color = "#ddd";
 		localStorage.setItem("mode", "light");
 		setHighlightTheme("light");
@@ -203,7 +203,7 @@ client.send();
 	var mode = localStorage.getItem("mode");
 	if (mode == "light") {
 		document.documentElement.setAttribute("data-theme", "light");
-		document.getElementById('light-toggle').innerHTML = "Dark";
+		document.getElementById('light-toggle').innerHTML = "☾";
 		document.getElementById('light-toggle').style.color = "#ddd";
 		setHighlightTheme("light");
 	} else {
