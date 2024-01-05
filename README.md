@@ -36,7 +36,7 @@ sh3ll is an audiovisual artwork created with code, algorithms and blockchain met
 ||||
 | ---- | ---- | ---- |
 |_2023_| _`Javascript / WebAudio / GraphQL / 256 Editions / Tezos Blockchain`_||
-| |_Appearances: [MoneyLaB 13 - Krypto, NeMe](https://www.instagram.com/p/Cz_b_IlNTjo/?img_index=1), Limassol (Cyprus), [Tezos Art Communities](https://www.fxhash.xyz/article/tezos-art-communities), [Waiting to be Signed #63](https://www.fxhash.xyz/article/e63-slow-meta)_| |
+| |_Appearances: [MoneyLaB 13 - Krypto, NeMe](https://www.instagram.com/p/Cz_b_IlNTjo/?img_index=1), Limassol (Cyprus), [Tezos Art Communities](https://www.fxhash.xyz/article/tezos-art-communities), [Waiting to be Signed](https://www.fxhash.xyz/article/e63-slow-meta) #63_| |
 | |[View full collection](https://www.fxhash.xyz/generative/25977) | |
 
 Metapoetry.
