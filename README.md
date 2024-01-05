@@ -90,7 +90,7 @@ C-Life is an audiovisual artwork featuring abstract, generative landscapes. The 
 ![](assets/user/moire-duo.png)
 ||||
 | ---- | ---- | ---- |
-|_2022_| _`Custom Software`_||
+|_2021_| _`Custom Software`_||
 | |project link | |
 | |appearances | |
 
