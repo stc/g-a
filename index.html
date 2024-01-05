@@ -125,9 +125,7 @@
 		<a href="#" onclick="toggleLight();return false;" id="light-toggle" class="contrast">light</a>
 		<div id="insert"></div>
 	</main>
-
 	<script type="text/javascript">
-
 		// set syntax highlighting theme based on light or dark mode
 		function setHighlightTheme(mode) {
 			var link = document.getElementById('highlight-styles');
@@ -205,6 +203,9 @@
 
 					// apply syntax highlighting for code blocks
 					hljs.highlightAll();
+
+					console.log(document.getElementById('insert').innerHTML);
+					
 				}
 			}
 		}
@@ -222,7 +223,6 @@
 				setHighlightTheme("dark");
 			}
 		})();
-
 	</script>
 </body>
 
