@@ -9,7 +9,7 @@ This page is a curated selection of my long-form generative artworks. In my [art
 ![](assets/user/m0-n0-duo.png)
 ||||
 | ---- | ---- | ---- |
-|_2023_| _`Javascript / WebAudio / WebGL / 200 editions / Tezos Blockchain`_||
+|_2023_| _`GLSL / Javascript / WebAudio / WebGL / 200 editions / Tezos Blockchain`_||
 | |_Appearances: [Tezos South Beach Miami](https://tezos.com/events/art-basel-miami-beach-2023/) (US), [Adaptér Generative Kiosk](https://www.instagram.com/p/C1fmoexNEYG/?img_index=1), Budapest (H)_ | |
 | |[View full collection](https://www.fxhash.xyz/generative/slug/m0-n0)| |
 
