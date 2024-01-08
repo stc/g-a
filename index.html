@@ -23,25 +23,6 @@
 		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<title>g-a</title>
 	<style>
-		/**** pico style overrides *****/
-
-		/* link underlines for a11y */
-		a {
-			/*text-decoration: underline;*/
-		}
-
-		/* focus indicator */
-		[data-theme="dark"] a:focus {
-			/*outline: 2px solid rgba(225, 225, 225, 0.3);*/
-			/*border-radius: 2px;*/
-		}
-
-		[data-theme="light"] a:focus {
-			/*outline: 2px solid rgba(25, 25, 25, 0.3);*/
-			/*border-radius: 2px;*/
-		}
-
-		/* adjust contain widths */
 		@media (max-width: 1199px) {
 			.container {
 				max-width: 100%;
@@ -57,7 +38,6 @@
 			}
 		}
 
-		/* adjust heading margins */
 		h2 {
 			margin-bottom: 1.5rem;
 		}
@@ -73,7 +53,7 @@
 			text-decoration: none;
 		}
 
-		/* increase color contrast for a11y */
+		/* increase color contrast */
 		[data-theme="light"] a {
 			color: #0c779a;
 		}
@@ -126,7 +106,6 @@
 
 <body>
 	<main role="main" class="container">
-		<!--<a href="#" role="button" onclick="toggleLight();return false;" id="light-toggle" class="contrast">light</a>-->
 		<a href="#" onclick="toggleLight();return false;" id="light-toggle" class="contrast">light</a>
 		<div id="insert"></div>
 	</main>
