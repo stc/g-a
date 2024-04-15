@@ -64,6 +64,7 @@ Following the traditions of concrete poetry, cut-up methodology, typewriter art 
 ||||
 | ---- | ---- | ---- |
 |_2023_| _`GLSL / Javascript / Open Edition / Ethereum Blockchain (Optimism L2)`_||
+| |_Appearances: Optimism Foundation [We Love the Art](https://welovetheart.optimism.io/) Contest Winner (Generative Art Category, 3rd tier), 2024_| |
 | |[View full collection](https://highlight.xyz/mint/657191e2452b7c1626dcd551) | |
 
 _r3s0_ is a real-time generative artwork, investigating algorithmic latent space through shapes, colors and slowly transforming movements. As part of my investigation of GLSL fragment shaders, it is based on a recursive noise function that is converted into different combinations of binary pattern fills. The project started out as an experiment with gating tokens through the [farcaster](https://www.farcaster.xyz/) protocol: setting up access privileges for connected friends to mint the first iterations of _r3s0_ as a free gift. On one hand, _r3so_ goes for invoking resonance in terms of the appearance of the artwork: it resembles the psychedelic graphic language of the 60s, early computer graphics and op-art through minimalistic, yet vivid visual alterations of the noise function. On the other hand, it is a community experiment, where members of a decentralized community vibe and resonate together: how such social activities might unfold in the digital space? Custom software, animation, no sound.
