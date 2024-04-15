@@ -2,7 +2,20 @@
 
 This page is a curated selection of my long-form generative artworks. In my [artistic exploration and practice](https://stc.github.io/), I delve into the philosophical aspects of computation and the cognitive aspects of the mind. While new technologies emerge and fade rapidly, the overarching purpose — understanding ourselves and our place in the world — remains as crucial as ever. I find it fascinating that humanity invents and explores technological, ritualistic, or artistic tools to frame problems and devise solutions. I'm deeply impressed by our ancestors who developed ways to comprehend our environment and our relationship with reality. I see art as an autonomous expression of the aspects above, that acts as a gateway to our innate nature, aiding in understanding ourselves, our emotions, and our connections with others. 
 
-[_`m0-n0`_](#m0-n0) [_`sh3ll`_](#sh3ll) [_`L-Poem`_](#l-poem) [_`r3s0`_](#r3s0)  [_`C-Life`_](#c-life)  [_`tur1ng`_](#tur1ng) [_`Dotwork`_](#dotwork) [_`moiré`_](#moiré)  
+[_`gr1dflow`_](#m0-n0) [_`gr1dflow`_](#m0-n0) [_`sh3ll`_](#sh3ll) [_`L-Poem`_](#l-poem) [_`r3s0`_](#r3s0)  [_`C-Life`_](#c-life)  [_`tur1ng`_](#tur1ng) [_`Dotwork`_](#dotwork) [_`moiré`_](#moiré)  
+
+## gr1dflow
+
+[![](assets/user/gr1dflow-duo.png)](https://highlight.xyz/mint/660573d2f9176ca33f52f34f)
+||||
+| ---- | ---- | ---- |
+|_2024_| _`GLSL / Javascript / WebAudio / 256 editions / Ethereum Blockchain (Base L2)`_||
+| |_Appearances: Featured exhibition on [Foundation](https://foundation.app/collection/gr1dflow), 2024_| |
+| |[View full collection](https://highlight.xyz/mint/660573d2f9176ca33f52f34f)| |
+
+_gr1dflow_ is a collection of artworks created through code, delving into the world of computational space. A visual grid system serves as the foundational architecture for the scenes where the depth of recursion and the grid alignment parameters are derived directly from blockchain specific metadata, like token id and the minting transaction hash on the chain. GLSL shaders are applied on the grid cells, enabling swift and seamless colour transitions using a set of manually chosen palettes. The gradients employed in this process are made using a technique called dithering, a method that can be found in retro video games, which allows for the display of a diverse visual appearance from a limited set of colours. The speed, dynamics, and density of movements can effectively communicate messages and evoke feelings that might be challenging, if not impossible, to express with words or static images. The work uses a noise function to reconfigure its grid alignment in smooth and organic ways. These changes can be experienced through a continuity of transitional flow: a constant flux of a dynamic system, with no explicit purpose, yet showing references to the aesthetic concepts above. This work is part of an ongoing artistic research on recursive ontologies.
+
+[↑](#[0xstc])
 
 ## m0-n0
 
