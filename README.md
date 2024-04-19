@@ -15,7 +15,7 @@ This page is a curated selection of my long-form generative artworks. In my [art
 
 _gr1dflow_ is a collection of artworks created through code, delving into the world of computational space. A visual grid system serves as the foundational architecture for the scenes where the depth of recursion and the grid alignment parameters are derived directly from blockchain specific metadata, like token id and the minting transaction hash on the chain. GLSL shaders are applied on the grid cells, enabling swift and seamless colour transitions using a set of manually chosen palettes. The gradients employed in this process are made using a technique called dithering, a method that can be found in retro video games, which allows for the display of a diverse visual appearance from a limited set of colours. The speed, dynamics, and density of movements can effectively communicate messages and evoke feelings that might be challenging, if not impossible, to express with words or static images. The work uses a noise function to reconfigure its grid alignment in smooth and organic ways. These changes can be experienced through a continuity of transitional flow: a constant flux of a dynamic system, with no explicit purpose, yet showing references to the aesthetic concepts above. This work is part of an ongoing artistic research on recursive ontologies.
 
-[↑](#[0xstc])
+[↑](#0xstc)
 
 ## m0-n0
 
@@ -28,7 +28,7 @@ _gr1dflow_ is a collection of artworks created through code, delving into the wo
 
 _m0-n0_ is a realtime generative artwork, composed of deconstructed screen space. The process is based on a recursive noise function, that is altered by low-level manipulations of a fragment shader. The sound synthesis is closely related with the glitches and flaws of the unfolding image architecture. Each colour scheme activates a different set of sound generators and filter modules. The resulting composition is an audiovisual environment that slowly transforms its elements into a blend of auditive sensations and autonomous pixel configurations.
 
-[↑](#[0xstc])
+[↑](#0xstc)
 
 ## sh3ll
 
