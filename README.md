@@ -2,7 +2,20 @@
 
 This page is a curated selection of my long-form generative artworks. In my [artistic exploration and practice](https://stc.github.io/), I delve into the philosophical aspects of computation and the cognitive aspects of the mind. While new technologies emerge and fade rapidly, the overarching purpose — understanding ourselves and our place in the world — remains as crucial as ever. I find it fascinating that humanity invents and explores technological, ritualistic, or artistic tools to frame problems and devise solutions. I'm deeply impressed by our ancestors who developed ways to comprehend our environment and our relationship with reality. I see art as an autonomous expression of the aspects above, that acts as a gateway to our innate nature, aiding in understanding ourselves, our emotions, and our connections with others. 
 
-[_`gr1dflow`_](#gr1dflow) [_`m0-n0`_](#m0-n0) [_`sh3ll`_](#sh3ll) [_`L-Poem`_](#l-poem) [_`r3s0`_](#r3s0)  [_`C-Life`_](#c-life)  [_`tur1ng`_](#tur1ng) [_`Dotwork`_](#dotwork) [_`moiré`_](#moiré)  
+[_`re-frame`_](#re-frame) [_`gr1dflow`_](#gr1dflow) [_`m0-n0`_](#m0-n0) [_`sh3ll`_](#sh3ll) [_`L-Poem`_](#l-poem) [_`r3s0`_](#r3s0)  [_`C-Life`_](#c-life)  [_`tur1ng`_](#tur1ng) [_`Dotwork`_](#dotwork) [_`moiré`_](#moiré)  
+
+## re-frame
+
+[![](assets/user/reframe-duo.png)](https://highlight.xyz/mint/base:0x681181Da71E15bb24af8c7CBbCA814189e668106)
+||||
+| ---- | ---- | ---- |
+|_2024_| _`GLSL / Javascript / Open Edidion / Ethereum Blockchain (Base L2)`_||
+| |_Appearances: [Remix the Archive](https://www.remixthearchive.com/) - Shortlisted artwork of Combine24 generative art competition, organized by the Finnish National Gallery, 2024 | |
+| |[View full collection](https://highlight.xyz/mint/660573d2f9176ca33f52f34f)| |
+
+This generative artwork is using the copyright-free, CC0-licensed collection data of the Finnish National Gallery in its implementation. Two search queries are used while interacting with the database: landscape and still life. These concepts are historically entangled with artistic practice, where the author aims to interpret different psychological, emotional or other phenomena through the built and the natural environment. Working with collection data, it is not possible to show the physical artworks in their originality, thus re-frame takes an approach of turning computational space into a metaphysical environment by combining a landscape with a still life from different authors into new combinations, resulting in a hybrid, multidimensional area of outdoor, indoor, mental and associative locations.
+
+[↑](#0xstc)
 
 ## gr1dflow
 
