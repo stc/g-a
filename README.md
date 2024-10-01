@@ -10,7 +10,7 @@ This page is a curated selection of my long-form generative artworks. In my [art
 ||||
 | ---- | ---- | ---- |
 |_2024_| _`GLSL / Javascript / Open Edidion / Ethereum Blockchain (Base L2)`_||
-| |_Appearances: [Remix the Archive](https://www.remixthearchive.com/) - Shortlisted artwork of Combine24 generative art competition, organized by the Finnish National Gallery, 2024 | |
+| |_Appearances: [Remix the Archive](https://www.remixthearchive.com/) - Shortlisted artwork of Combine24 generative art competition, organized by the Finnish National Gallery, 2024_ | |
 | |[View full collection](https://highlight.xyz/mint/660573d2f9176ca33f52f34f)| |
 
 This generative artwork is using the copyright-free, CC0-licensed collection data of the Finnish National Gallery in its implementation. Two search queries are used while interacting with the database: landscape and still life. These concepts are historically entangled with artistic practice, where the author aims to interpret different psychological, emotional or other phenomena through the built and the natural environment. Working with collection data, it is not possible to show the physical artworks in their originality, thus re-frame takes an approach of turning computational space into a metaphysical environment by combining a landscape with a still life from different authors into new combinations, resulting in a hybrid, multidimensional area of outdoor, indoor, mental and associative locations.
