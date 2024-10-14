@@ -9,7 +9,7 @@ This page is a curated selection of my long-form generative artworks. In my [art
 [![](assets/user/reframe-duo.png)](https://highlight.xyz/mint/base:0x681181Da71E15bb24af8c7CBbCA814189e668106)
 ||||
 | ---- | ---- | ---- |
-|_2024_| _`GLSL / Javascript / Open Edidion / Ethereum Blockchain (Base L2)`_||
+|_2024_| _`GLSL / Javascript / Open Edition / Ethereum Blockchain (Base L2)`_||
 | |_Appearances: [Remix the Archive](https://www.remixthearchive.com/) - Shortlisted artwork of Combine24 generative art competition, organized by the Finnish National Gallery, 2024_ | |
 | |[View full collection](https://highlight.xyz/mint/base:0x681181Da71E15bb24af8c7CBbCA814189e668106)| |
 
