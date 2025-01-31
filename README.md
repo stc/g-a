@@ -2,7 +2,21 @@
 
 This page is a curated selection of my long-form generative artworks. In my [artistic exploration and practice](https://stc.github.io/), I delve into the philosophical aspects of computation and the cognitive aspects of the mind. While new technologies emerge and fade rapidly, the overarching purpose — understanding ourselves and our place in the world — remains as crucial as ever. I find it fascinating that humanity invents and explores technological, ritualistic, or artistic tools to frame problems and devise solutions. I'm deeply impressed by our ancestors who developed ways to comprehend our environment and our relationship with reality. I see art as an autonomous expression of the aspects above, that acts as a gateway to our innate nature, aiding in understanding ourselves, our emotions, and our connections with others. 
 
-[_`re-frame`_](#re-frame) [_`gr1dflow`_](#gr1dflow) [_`m0-n0`_](#m0-n0) [_`sh3ll`_](#sh3ll) [_`L-Poem`_](#l-poem) [_`r3s0`_](#r3s0)  [_`C-Life`_](#c-life)  [_`tur1ng`_](#tur1ng) [_`Dotwork`_](#dotwork) [_`moiré`_](#moiré)  
+[_`modulo space`_](#modulo-space) [_`re-frame`_](#re-frame) [_`gr1dflow`_](#gr1dflow) [_`m0-n0`_](#m0-n0) [_`sh3ll`_](#sh3ll) [_`L-Poem`_](#l-poem) [_`r3s0`_](#r3s0)  [_`C-Life`_](#c-life)  [_`tur1ng`_](#tur1ng) [_`Dotwork`_](#dotwork) [_`moiré`_](#moiré)  
+
+## modulo space
+
+[![](assets/user/modulo-duo.png)](https://www.editart.xyz/series/KT19z1Bckdn8yHaXnB3ixTW2vXuLtaJujC48)
+||||
+| ---- | ---- | ---- |
+|_2025_| _`Javascript / SVG / 1000 Editions / Tezos Blockchain`_||
+| |_Appearances: [Genuary 2025](https://genuary.art/) - an annual creative coding challenge held in January, where artists and programmers generate daily works based on prompts to explore generative art._ | |
+| |[View full collection](https://www.editart.xyz/series/KT19z1Bckdn8yHaXnB3ixTW2vXuLtaJujC48)| |
+
+Modulo Space is a combination of a miniature voxel engine and a custom made contour-finder algorithm. It explores the conceptual limitations and graphical possibilities of orthogonal views, where parallel lines and intersections create repeating visual clusters within the computational space. The system’s design seeks to create aesthetic value by removing unnecessary elements and keeping each component purely functional in the visual structure. In computing, the modulo operation returns the remainder when one number is divided by another, known as the modulus. Since computational space is built using numbers, these operations can be applied across multiple dimensions of the coordinate system. The resulting remainders create a variety of patterns along the different directions in the space. In addition to create, mint and collect a digital version for free, each artwork can be requested as a hand-signed, unique mechanical plotter drawing. Visit [EditArt](https://www.editart.xyz/series/KT19z1Bckdn8yHaXnB3ixTW2vXuLtaJujC48) to find out how to get your physical artwork.
+
+[↑](#0xstc)
+
 
 ## re-frame
 
